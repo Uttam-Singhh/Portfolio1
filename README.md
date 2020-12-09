@@ -1,2 +1,1 @@
-## My Personal Portfolio Website -  
-https://uttam-singhh.github.io/Portfolio/
+## My Personal Portfolio Website - https://uttam-singhh.github.io/Portfolio/
