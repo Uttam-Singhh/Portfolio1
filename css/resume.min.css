@@ -91,4 +91,13 @@ img1 {
   100% {transform: translateX(200%)}
 }
 
+video {
+  width: 100%;
+  height: auto;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
   
