@@ -236,3 +236,8 @@ img {
   border: none;
   background: #021f68;
 }
+@media(max-width:1300px){
+  .carousel-item, .carousel-inner{
+      height: 200%;
+   }
+}
