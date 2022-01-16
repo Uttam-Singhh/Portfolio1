@@ -246,7 +246,7 @@ img {
   position: relative;
   width: 320px;
   height: 300px;
-  margin: 170px auto 0 auto;
+  margin: 170px auto 0 350px;
   perspective: 1000px;
 }
 
@@ -304,7 +304,7 @@ img {
   background-position-x: 6.5ex;
   transform: rotateY(200deg) translateZ(430px); }
 .carousel1__face:nth-child(7) { 
-  background-image: url("../img/session2.jfif");
+  background-image: url("../img/session5.png");
  background-size: contain;
  background-repeat: no-repeat;
   transform: rotateY(240deg) translateZ(430px); }
@@ -314,7 +314,7 @@ img {
   background-repeat: no-repeat;
   transform: rotateY(280deg) translateZ(430px); }
 .carousel1__face:nth-child(9) {
-  background-image: url("../img/session5.png");
+  background-image: url("../img/session8.jpg");
  background-size: contain;
  background-position-y: 3ex;
   background-repeat: no-repeat;
